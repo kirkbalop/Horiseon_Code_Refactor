@@ -46,6 +46,6 @@
    <div id="link">
     <h2>Link</h2>
       <p>
-        place_holder@place.holder
+        https://kirkbalop.github.io/Horiseon_Code_Refactor/
       <p>
    </div>
