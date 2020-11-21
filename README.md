@@ -39,7 +39,7 @@
    <div id="screenshot">
     <h2>Screenshot</h2>
     <p>
-    [Screenshot](https://github.com/kirkbalop/Horiseon_Code_Refactor/blob/main/assets/images/horiseon_screenshot.png)
+    <img src="https://github.com/kirkbalop/Horiseon_Code_Refactor/blob/main/assets/images/horiseon_screenshot.png" />
     </p>
    </div>
    <br>
