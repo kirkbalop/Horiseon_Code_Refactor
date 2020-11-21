@@ -39,7 +39,7 @@
    <div id="screenshot">
     <h2>Screenshot</h2>
     <p>
-    I don't have one yet, so placeholder! placeholder! placeholder!
+    (assets/images/horiseon_screenshot.png)
     </p>
    </div>
    <br>
