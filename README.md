@@ -39,7 +39,7 @@
    <div id="screenshot">
     <h2>Screenshot</h2>
     <p>
-    [Screenshot](assets/images/horiseon_screenshot.png)
+    [Screenshot](./assets/images/horiseon_screenshot.png)
     </p>
    </div>
    <br>
