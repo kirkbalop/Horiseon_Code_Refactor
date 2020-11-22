@@ -39,13 +39,13 @@
    <div id="screenshot">
     <h2>Screenshot</h2>
     <p>
-    I don't have one yet, so placeholder! placeholder! placeholder!
+    <img src="https://github.com/kirkbalop/Horiseon_Code_Refactor/blob/main/assets/images/horiseon_screenshot.png" />
     </p>
    </div>
    <br>
    <div id="link">
     <h2>Link</h2>
       <p>
-        place_holder@place.holder
+        https://kirkbalop.github.io/Horiseon_Code_Refactor/
       <p>
    </div>
