@@ -60,6 +60,9 @@ p {
     background-size: cover;
     background-position: center;
 }
+.hero img {
+    height: 1200px;
+}
 
 /* End Hero */
 /* Begin Main Content Section */
