@@ -21,7 +21,7 @@
     <br>
 
    <div id="description">
-    <h2>Description</h2>
+    <h2>Project Goal</h2>
       <p>
       Refactor existing code to optimize both accessibility and search engine performance, while also clearing up any redundancies or syntactical errors
       found. Ensure the code is properly annotated and overall clean and concise.
