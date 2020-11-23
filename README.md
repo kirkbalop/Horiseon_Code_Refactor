@@ -33,6 +33,12 @@
       Upon testing the code in browser I determined that a few links were not working as intended, so I set about checking the "id" and "class" selectors to ensure
       that they matched and were syntactically correct. In doing so I also took the time to provide alt labels to all images in the HTML. I then checked the stylesheet and noticed a number of redundancies that were then consolidated, removing
       several unnecessary lines of code. The pathways were all cross-checked and the CSS was reordered so that the order represented that of the HTML file.
+        <br>
+        In addition to CSS and HTML, the following tools were utilized in refactoring Horiseon's code:
+        <ul>
+          <li>Git</li>
+          <li>Virtual Studio Code</li>
+  </ul>
       </p>
    </div>
    <br>
